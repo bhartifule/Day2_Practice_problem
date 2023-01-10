@@ -1,4 +1,4 @@
-package Day2PracticeProblem;
+package Day2PracticeProblem.Day2;
 import java.util.Scanner;
 public class NumberToWord {
 	public static void main(String[] args) {
