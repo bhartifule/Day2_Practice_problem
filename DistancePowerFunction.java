@@ -1,6 +1,6 @@
 package Day2PracticeProblem.Day2;
 
-public class DistancePowerFunction {
+public class DistancePowerFunction  {
 		
 	 static double distance(int x1, int y1, int x2, int y2)
 	    {
